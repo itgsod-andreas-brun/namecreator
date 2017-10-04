@@ -1,10 +1,10 @@
-# first project
+# namecreator
 
 Ett porogram som skapar användar namn genom att ta förnamn och efternamn och skpar ett användar namn efter det.
 
 Användarnamn läses in i en fil genom man skriver för och efternamn i en annan fil(users.csv) där alla namnen ligger
 
-## forka
+## användarnamn
 
 Användar namnet skapas genom en algoritme som går ut på att ta 3 första bokstäverna från förnamnet och efternamnet.
 
